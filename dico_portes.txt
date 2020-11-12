@@ -1,0 +1,5 @@
+(3, 9), ("Quel est le prènom du co-auteur du MOOC, Professeur à l'ULB?", 'Thierry')
+(1, 18), ('Que vaut sorted(set(x for x in indice_2 if x%2 == 0))?', '[4, 6, 10]')
+(9, 1), ('Quel est le type de indice 1? ', 'NoneType')
+(17, 5), ('Est-ce que indice 3 est "hashable"? Oui ou Non', 'Non')
+(20, 11), ('Que vaut list(set(a) indice5 set(b))?', '[5]')
